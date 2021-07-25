@@ -1,7 +1,13 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+# Hello and welcome to my blog!
+
+Here you can find some of my personal projects. Just started working on it. Soon new stuff will be coming up! 
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
+## Top Girl Models Classifier
+
+This model predicts if the uploaded image is either Cara Delevingne or Kendall Jenner.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bpeel26/girl_models_classifier/HEAD?filepath=voila%2Frender%2Fgirl_models_classifier.ipynb)
 
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
