@@ -2,7 +2,7 @@
 
 Here you can find some of my personal projects. Just started working on it. Soon new stuff will be coming up! 
 
-![Image of fast.ai logo](images/logo.png)
+![GIF excited](videos/DimwittedFluidArachnid-mobile.mp4)
 
 ## Top Girl Models Classifier
 
