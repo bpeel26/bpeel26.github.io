@@ -15,7 +15,7 @@ This model predicts if the uploaded image is either Cara Delevingne or Kendall J
 
 Please launch the below binder to use the classifier:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bpeel26/girl_models_classifier/HEAD?filepath=voila%2Frender%2Fgirl_models_classifier.ipynb)
+[![Binder]([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bpeel26/girl_models_classifier/HEAD?urlpath=voila%2Frender%2Fgirl_models_classifier.ipynb)
 
 
 
