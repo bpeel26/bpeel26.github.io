@@ -2,7 +2,7 @@
 
 Here you can find some of my personal projects. Just started working on it. Soon new stuff will be coming up! 
 
-![GIF excited](videos/giphy.gif)
+![Alt Text](https://media.giphy.com/media/Ka2V8MODoM7vrUd7hm/giphy.gif)
 
 ## Top Girl Models Classifier
 
