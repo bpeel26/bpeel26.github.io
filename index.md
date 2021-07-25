@@ -12,7 +12,8 @@ Here you can find some of my personal projects. Just started working on it. Soon
 
 
 
-## Top Girl Models Classifier
+## Top Girl Models Classifier&nbsp;
+
 
 This model predicts if the uploaded image is either Cara Delevingne or Kendall Jenner.
 
