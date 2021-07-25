@@ -19,3 +19,10 @@ This model predicts if the uploaded image is either Cara Delevingne or Kendall J
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bpeel26/girl_models_classifier/HEAD?filepath=voila%2Frender%2Fgirl_models_classifier.ipynb)
 
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+
+
+
+The action of every agent <br />
+  into the world <br />
+starts <br />
+  from their physical selves. <br />
