@@ -2,6 +2,10 @@
 
 Here you can find some of my personal projects. Just started working on it. Soon new stuff will be coming up! 
 
+<p align="center">
+  <img width="460" height="300" src="https://media.giphy.com/media/Ka2V8MODoM7vrUd7hm/giphy.gif">
+</p>
+
 ![Alt Text](https://media.giphy.com/media/Ka2V8MODoM7vrUd7hm/giphy.gif)
 
 ## Top Girl Models Classifier
