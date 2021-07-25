@@ -13,6 +13,12 @@ Here you can find some of my personal projects. Just started working on it. Soon
 
 This model predicts if the uploaded image is either Cara Delevingne or Kendall Jenner.
 
+<pre>
+
+Please launch the below binder to use the classifier:
+
+<pre>
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bpeel26/girl_models_classifier/HEAD?filepath=voila%2Frender%2Fgirl_models_classifier.ipynb)
 
 
