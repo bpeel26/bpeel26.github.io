@@ -7,10 +7,7 @@ Here you can find some of my personal projects. Just started working on it. Soon
   <img src="https://media.giphy.com/media/Ka2V8MODoM7vrUd7hm/giphy.gif">
 </p>
 
-
-
-
-
+&nbsp;
 
 ## Top Girl Models Classifier&nbsp;
 
