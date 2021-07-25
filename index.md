@@ -2,7 +2,7 @@
 
 Here you can find some of my personal projects. Just started working on it. Soon new stuff will be coming up! 
 
-![GIF excited](videos/DimwittedFluidArachnid-mobile.mp4)
+![GIF excited](videos/giphy.gif)
 
 ## Top Girl Models Classifier
 
