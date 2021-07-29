@@ -9,7 +9,7 @@ Here you can find some of my personal projects. Just started working on it. Soon
 
 &nbsp;
 
-## Project 1: Top Girl Models Classifier
+## Project 1: Top Girl Models Classifier (still on a trial)
 
 This model predicts if the uploaded image is either Cara Delevingne or Kendall Jenner.
 
